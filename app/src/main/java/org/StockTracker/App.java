@@ -22,7 +22,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class App extends Application {
-    private static final String API_KEY = "10XUXLXCEUTD8OH6";
+    private static final String API_KEY = "E770TIKGBHY8OIQL";
     private static final String SYMBOL = "MSFT";
     private static final int WAIT_TIME_MS = 5000;
 

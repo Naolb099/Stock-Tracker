@@ -27,7 +27,7 @@ javafx {
 }
 
 application {
-    mainClass = 'org.CitiStockTracker.App'
+    mainClass = 'org.StockTracker.App'
     applicationDefaultJvmArgs = [
         "-Dprism.order=sw",
         "-Djavafx.macosx.embedded=true"
